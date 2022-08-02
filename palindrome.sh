@@ -1,5 +1,5 @@
-#!/bin/bash
-clear
+#!/bin/bash -x
+
 echo "Enter No : "
 read no
 
